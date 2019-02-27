@@ -1,6 +1,5 @@
-let contractAddress = ' 0xb844e31e1bbb28e2e873e5b8b3a4479792960ee1';
-let abi =
-[
+let contractAddress = '0xbfbd51014b0bdb4da3ff47700ff97a616b3a7642';
+let abi =[
 	{
 		"constant": false,
 		"inputs": [],
